@@ -9,7 +9,6 @@ Log file
 - Verifica se o file de teste ja se encontra na pasta /Root;
 - Caso se encontre passa a frente, se não, descomprime no respectivo directorio;
 - Executa o comando para iniciar testes (em background)...
-- 
 
 Falta:
 
